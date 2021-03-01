@@ -7,7 +7,7 @@
 
 #=================================================
 
-name: Build OpenWrt
+name: Build OpenWrt-rtl8821cu
 
 on:
 #  schedule:
