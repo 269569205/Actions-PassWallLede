@@ -66,6 +66,7 @@ jobs:
         git clone https://github.com/kenzok8/small.git
         git clone https://github.com/lisaac/luci-app-dockerman
         git clone https://github.com/lisaac/luci-app-diskman
+        git clone https://github.com/jerrykuku/luci-app-ttnode
         cd kernel
         git clone https://github.com/suwus/openwrt-feeds-driver-ext
     - name: Update feeds
