@@ -67,7 +67,7 @@ jobs:
         git clone https://github.com/lisaac/luci-app-dockerman
         git clone https://github.com/lisaac/luci-app-diskman
         cd kernel
-        git clone https://github.com/yichya/rtl8821cu-openwrt
+        git clone https://github.com/suwus/openwrt-feeds-driver-ext
     - name: Update feeds
     
       run: |
